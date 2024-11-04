@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "target": "es5", 
-    "module": "commonjs", 
-    "jsx": "react",
-    "outDir": "./build"
-  },
-  "include": ["portfolio.tsx.ts"]
-}
